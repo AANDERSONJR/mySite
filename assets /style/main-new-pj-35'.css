@@ -38,13 +38,14 @@ h2 {
 	font-size: 18px;
 	color: blue;
 	margin: 10px;
-	margin-bottom:150px;
-	padding: 20px;
-	margin-left: 360px;
+	margin-bottom:110px;
+	padding: 25px;
+	margin-left: 400px;
+	margin-top:20px;
    	position:right;
-    width: 420px;
-    height: 100px;
-    border: 2px 
+    width: 400px;
+    height: 70px;
+    border: 3px 
     solid white;
     
 
@@ -55,7 +56,8 @@ h3 {
 	font-weight:bold;
 	font-size:20px; 
 	margin:5px;
-	margin-top:20px;
+	margin-right: 10px;
+	margin-top:190px;
 	padding:5px;
 	border: 2px solid white 
 	
@@ -81,7 +83,7 @@ h6{
 }
  
 img {
-	 border: 5px solid white;
-	 margin:10px;
+	 border: 8px solid white;
+	 margin:5px;
 	
 }
