@@ -26,6 +26,7 @@ p
 	padding:5px;
 	font-weight:thin;
 	color:gold;
+	border: 2px solid white;
 
 
 
@@ -33,7 +34,7 @@ p
 }
 h2 {
 	background-color:gold;
-	text-align:right; 
+	text-align:center; 
 	font-weight: thin ;
 	font-size: 18px;
 	color: blue;
@@ -53,6 +54,7 @@ h2 {
 h3 {
  	background-color:gold;
 	text-align:center;
+	color:black;
 	font-weight:bold;
 	font-size:20px; 
 	margin:5px;
@@ -73,17 +75,29 @@ h4 {background-color:yellow;
 
 
 }
-h5 {
+h5 {background-color:yellow;
+	margin: 10px;
+	padding: 10px;
+	text-align:center;
+	font-weight:bold;
+	font:25px;
+	color:blue;
 	 border: 2px solid white;
-
 }
-h6{
+h6{background-color:yellow;
+	margin: 10px;
+	padding: 10px;
+	text-align:center;
+	font-weight:bold;
+	font:30px;
+	color:blue;
 	 border: 2px solid white;
-
 }
+
  
 img {
 	 border: 8px solid white;
 	 margin:5px;
+	 margin-left:5px;
 	
 }
