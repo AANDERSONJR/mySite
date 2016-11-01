@@ -4,6 +4,7 @@ body {
 	padding: 10px;
 	text-transform: uppercase;
 	 border: 2px solid white;
+	 font-size:10px;
 	}
 
  {
@@ -14,6 +15,7 @@ h1 { color: yellow;
 	margin: 20px;
 	font-weight: bold
 	border: 2px solid white;
+	font-size:50px;
 
 }	
 
@@ -22,7 +24,7 @@ p
 	text-align:center; ;
 	background-color:blue;
 	margin:5px;
-	font:10px;
+	font-size:16.5px;
 	padding:5px;
 	font-weight:thin;
 	color:gold;
@@ -56,7 +58,7 @@ h3 {
 	text-align:center;
 	color:black;
 	font-weight:bold;
-	font-size:20px; 
+	font-size:27.5px; 
 	margin:5px;
 	margin-right: 10px;
 	margin-top:190px;
@@ -69,29 +71,29 @@ h4 {background-color:yellow;
 	padding: 10px;
 	text-align:center;
 	font-weight:bold;
-	font:20px;
+	font-size:25px;
 	color:blue;
 	 border: 2px solid white;
 
 
 }
-h5 {background-color:yellow;
+h5 {background-color:black;
 	margin: 10px;
 	padding: 10px;
 	text-align:center;
 	font-weight:bold;
-	font:25px;
-	color:blue;
-	 border: 2px solid white;
+	font-size:25px;
+	color:red;
+	 border: 2px solid gold;
 }
-h6{background-color:yellow;
+h6{background-color:white;
 	margin: 10px;
 	padding: 10px;
 	text-align:center;
 	font-weight:bold;
-	font:30px;
+	font-size:15px;
 	color:blue;
-	 border: 2px solid white;
+	 border: 2px solid gold;
 }
 
  
@@ -101,3 +103,11 @@ img {
 	 margin-left:5px;
 	
 }
+ol{
+	font-size: 20px ;
+	background-color: green;
+	color: red;
+	 border: 2px solid white;
+
+}
+
