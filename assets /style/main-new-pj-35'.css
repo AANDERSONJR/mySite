@@ -4,7 +4,7 @@ body {
 	padding: 10px;
 	text-transform: uppercase;
 	 border: 2px solid white;
-	 font-size:10px;
+	 font-size:15px;
 	}
 
  {
@@ -106,8 +106,20 @@ img {
 ol{
 	font-size: 20px ;
 	background-color: green;
-	color: red;
+	color: black;
+	font-weight:bold;
+	margin: 10px;
+	padding: 10px;
+	text-align:center;
 	 border: 2px solid white;
 
 }
 
+ul{
+	background-color: gold;
+	font-weight:bold;
+	margin: 10px;
+	padding: 10px;
+	text-align:center;
+	 border: 2px solid black;
+}
