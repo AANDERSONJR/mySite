@@ -1,44 +1,30 @@
 body {
+
 	background-color:red;
+	color: gold;
 	margin: 10px;
 	padding: 10px;
 	text-transform: uppercase;
-	 border: 2px solid white;
+	 border: 5px solid white;
 	 font-size:15px;
 	}
 
- {
-
-}	
+	
 h1 { color: yellow;
 	text-align: center ;
 	margin: 20px;
 	font-weight: bold
-	border: 2px solid white;
+	border: 200px solid black;
 	font-size:50px;
 
 }	
 
-p
-{ 
-	text-align:center; ;
-	background-color:blue;
-	margin:5px;
-	font-size:16.5px;
-	padding:5px;
-	font-weight:thin;
-	color:gold;
-	border: 2px solid white;
 
-
-
-
-}
 h2 {
 	background-color:gold;
 	text-align:center; 
 	font-weight: thin ;
-	font-size: 18px;
+	font-size: 19px;
 	color: blue;
 	margin: 10px;
 	margin-bottom:110px;
@@ -46,34 +32,36 @@ h2 {
 	margin-left: 400px;
 	margin-top:20px;
    	position:right;
-    width: 400px;
-    height: 70px;
+    width: 420px;
+    height: 75px;
     border: 3px 
     solid white;
     
 
 }
 h3 {
- 	background-color:gold;
+ 	background-color:black;
 	text-align:center;
-	color:black;
+	color:gold;
 	font-weight:bold;
 	font-size:27.5px; 
-	margin:5px;
-	margin-right: 10px;
+	margin:3px;
+	margin-right: 5px;
 	margin-top:190px;
-	padding:5px;
-	border: 2px solid white 
+	padding:7px;
+	border: 5px solid white 
 	
 }
-h4 {background-color:yellow;
+h4 {
+	background-color:yellow;
 	margin: 10px;
 	padding: 10px;
 	text-align:center;
 	font-weight:bold;
 	font-size:25px;
-	color:blue;
-	 border: 2px solid white;
+	letter-spacing: 1px;
+	color: black;
+	 border: 2px solid black;
 
 
 }
@@ -84,6 +72,7 @@ h5 {background-color:black;
 	font-weight:bold;
 	font-size:25px;
 	color:red;
+	letter-spacing: 1px;
 	 border: 2px solid gold;
 }
 h6{background-color:white;
@@ -92,13 +81,35 @@ h6{background-color:white;
 	text-align:center;
 	font-weight:bold;
 	font-size:15px;
-	color:blue;
+	color:black;
 	 border: 2px solid gold;
+}
+
+
+
+p
+{ 
+	text-align:center; ;
+	background-color:blue;
+	margin:5px;
+	font-size:16.5px;
+	padding:5px;
+	font-weight:thin;
+	font-weight:bold;
+	letter-spacing: 2px;
+	color:gold;
+	border: 3px solid white;
+
+}
+
+div {
+	margin: 30px;
 }
 
  
 img {
-	 border: 8px solid white;
+	background-color: gold;
+	 border: 8px solid skyblue;
 	 margin:5px;
 	 margin-left:5px;
 	
@@ -110,6 +121,7 @@ ol{
 	font-weight:bold;
 	margin: 10px;
 	padding: 10px;
+	letter-spacing: 1px;
 	text-align:center;
 	 border: 2px solid white;
 
@@ -120,6 +132,7 @@ ul{
 	font-weight:bold;
 	margin: 10px;
 	padding: 10px;
+	letter-spacing: 1px;
 	text-align:center;
 	 border: 2px solid black;
 }
